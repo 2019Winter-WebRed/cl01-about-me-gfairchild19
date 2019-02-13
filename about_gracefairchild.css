@@ -1,0 +1,17 @@
+/*
+* Grace Fairchild
+* 2/13
+* CSS for All About Grace Fairchild
+*/
+
+/* The universal selcetor */
+
+* { 
+    
+}
+
+/* Body attributes here */
+
+body {
+    background-color: peachpuff;
+}
